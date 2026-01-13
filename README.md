@@ -63,11 +63,10 @@ drive.mount('/content/drive')
 ```
 3. Ensure the Drive folders match the structure shown above (Training, Testing, outputs, and Model folder).
 4. Run all notebook cells in order:
-    Export annotated videos + CSV landmarks
-    Build sequence dataset (sequence length = 30, features = 139)
-    Apply data augmentation (rotation/flip/noise/time-shift)
-    Normalize features (z-score using training statistics)
-    Train CNN-LSTM and evaluate on the test set
+   - Export annotated videos + CSV landmarks
+   - Apply data augmentation (rotation/flip/noise/time-shift)
+   - Normalize features (z-score using training statistics)
+   - Train CNN-LSTM and evaluate on the test set
 ```
 ### Model Configuration (CNN-LSTM)
 Key settings used in the notebook:
