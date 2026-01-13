@@ -1,8 +1,5 @@
 # Taekwondo-Movement-Classification-Using-CNN-LSTM-Based-on-Body-Pose-Estimation
 Final project: Classifying Taekwondo kicks (Apchagi, Idan Dollyo Chagi, Yeopchagi) from pose sequences using MediaPipe Pose and a CNN-LSTM model.
-# Taekwondo Movement Classification Using CNN-LSTM Based on Body Pose Estimation
-
-Undergraduate thesis project: Classifying Taekwondo kicks (Apchagi, Idan Dollyo Chagi, Yeopchagi) from pose sequences using MediaPipe Pose Landmarker and a CNN-LSTM model.
 
 ## Project Overview
 This repository contains an end-to-end pipeline:
@@ -52,7 +49,7 @@ MediaPipe (Tasks API)
 OpenCV
 NumPy, Pandas, Matplotlib
 scikit-learn
-```
+
 In Colab, most packages are available by default. If needed, install manually:
 ```
 pip install mediapipe opencv-python scikit-learn pandas matplotlib
