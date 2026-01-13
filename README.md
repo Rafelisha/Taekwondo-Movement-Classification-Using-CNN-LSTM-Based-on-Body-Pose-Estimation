@@ -84,10 +84,10 @@ Key settings used in the notebook:
 
 ### Outputs
 The pipeline produces:
-Annotated videos with skeleton overlay (annotated_videos/)
-Landmark + angle CSV files (landmarks_csv/)
-Optional merged annotated videos per class (merged_per_class/)
-Trained model checkpoint saved under Model/
+1. Annotated videos with skeleton overlay (annotated_videos/)
+2. Landmark + angle CSV files (landmarks_csv/)
+3. Optional merged annotated videos per class (merged_per_class/)
+4. Trained model checkpoint saved under Model/
 
 
 ## License
