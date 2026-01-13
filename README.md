@@ -67,7 +67,7 @@ drive.mount('/content/drive')
    - Apply data augmentation (rotation/flip/noise/time-shift)
    - Normalize features (z-score using training statistics)
    - Train CNN-LSTM and evaluate on the test set
-```
+
 ### Model Configuration (CNN-LSTM)
 Key settings used in the notebook:
 1. Input shape: (30, 139)
