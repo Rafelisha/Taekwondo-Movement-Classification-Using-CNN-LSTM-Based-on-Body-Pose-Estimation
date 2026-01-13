@@ -78,6 +78,28 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# --- TA Taekwondo: large data & outputs (do not track) ---
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Pose extraction outputs / datasets
+*.csv
+*.npy
+
+# Trained models
+*.h5
+*.keras
+
+# Optional: exported figures/logs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+
 # IPython
 profile_default/
 ipython_config.py
