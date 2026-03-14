@@ -31,7 +31,6 @@ TA_Taekwondo/
 └─ Model/
    └─ MODEL_CNNLSTM_2LAYER.h5    # trained model checkpoint (or .keras)
 ```
-Note: If the Drive link is restricted, please request access
 
 Repository Contents
 Model_TA.ipynb — main Colab notebook (pose extraction → dataset building → training → evaluation)
