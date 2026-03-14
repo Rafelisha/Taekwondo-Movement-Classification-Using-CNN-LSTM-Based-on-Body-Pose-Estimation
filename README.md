@@ -18,9 +18,6 @@ This repository contains an end-to-end pipeline:
 ## Data & Storage (Google Drive)
 Large files (videos, pose outputs, trained models) are stored on Google Drive and are **not tracked** in this GitHub repository.
 
-### Google Drive Folder
-https://drive.google.com/drive/folders/1Z8Ho3aIu00EnSvFz7fkPO3qFkJ8O2xgY?usp=drive_link
-
 ### Drive Folder Structure
 ```
 TA_Taekwondo/
