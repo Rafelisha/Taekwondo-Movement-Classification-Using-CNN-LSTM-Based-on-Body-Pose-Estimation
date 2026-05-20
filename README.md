@@ -10,6 +10,10 @@ This repository contains an end-to-end pipeline:
    Total per-frame features: **139**
 3. **Sequence modeling** using a **CNN-LSTM** classifier on sequences of **30 frames**.
 
+## Thesis Report
+The full final thesis report can be accessed here:
+[View Thesis Report (PDF)](https://drive.google.com/file/d/1Yyiof21Uw9p9dpGp8qX09Jb8ruuMuqsX/view?usp=sharing)
+
 ## Classes
 - `apchagi`
 - `idandollyochagi`
